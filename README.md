@@ -23,21 +23,8 @@ I’m actively seeking opportunities where I can contribute, learn, and grow as 
 
 ---
 
-## 🔝 Top Contributed Repositories
+![Stars](https://img.shields.io/github/stars/Bhanuprakashachini/Intrusion_Detection_System?style=social)
 
-Here are some of my top contributions 🚀:
-
-- 🔐 [Intrusion Detection System](https://github.com/Bhanuprakashachini/Intrusion_Detection_System)  
-  *Machine Learning model to detect network intrusions using the UNSW-NB15 dataset. Flask-based interface.*
-
-- 🫁 [Lung Disease Classification](https://github.com/Bhanuprakashachini/Lung-Disease-Classification-)  
-  *Deep learning (VGG16) to classify COVID-19, Pneumonia, Tuberculosis, and Normal chest X-rays.*
-
-- 🦠 [Covid-19 Prediction](https://github.com/Bhanuprakashachini/Covid-19-Prediction)  
-  *Analyzing and predicting COVID-19 cases using time-series forecasting.*
-
-- 💼 [Salary Prediction & Resume Scoring](https://github.com/Bhanuprakashachini/Salary-Prediction-and-Resume-Rate-calculation)  
-  *Predict salaries and analyze resume scores using ML models with real-world datasets.*
 
 ### 📫 Connect with Me
 
