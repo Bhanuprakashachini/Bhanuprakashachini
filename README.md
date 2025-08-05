@@ -18,12 +18,34 @@ I’m actively seeking opportunities where I can contribute, learn, and grow as 
   
 ## 📊 GitHub Stats
 
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuprakashachini&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuprakashachini&layout=compact&theme=tokyonight)
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuprakashachini&show_icons=true&theme=tokyonight&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuprakashachini&layout=compact&theme=tokyonight&border_radius=10)
 
 ---
 
-![Stars](https://img.shields.io/github/stars/Bhanuprakashachini/Intrusion_Detection_System?style=social)
+## 🔝 Top Contributed Repositories
+
+Here are some of my top open-source and academic projects 🚀:
+
+### 🌐 [🔐 Intrusion Detection System](https://github.com/Bhanuprakashachini/Intrusion_Detection_System)
+> 🧠 *Machine Learning model to detect network intrusions using the UNSW-NB15 dataset. Flask-based web interface for real-time predictions.*
+
+---
+
+### 🩺 [🫁 Lung Disease Classification](https://github.com/Bhanuprakashachini/Lung-Disease-Classification-)
+> 🧬 *Deep learning project using VGG16 to classify chest X-rays (COVID-19, Pneumonia, TB, Normal). Built with Flask & Streamlit.*
+
+---
+
+### 🧪 [🦠 Covid-19 Prediction](https://github.com/Bhanuprakashachini/Covid-19-Prediction)
+> 📉 *Time-series forecasting of COVID-19 cases using ML models and statistical analysis.*
+
+---
+
+### 💼 [📈 Salary Prediction & Resume Scoring](https://github.com/Bhanuprakashachini/Salary-Prediction-and-Resume-Rate-calculation)
+> 📊 *ML model to predict salaries and rate resumes based on real-world job description datasets.*
+
+---
 
 
 ### 📫 Connect with Me
