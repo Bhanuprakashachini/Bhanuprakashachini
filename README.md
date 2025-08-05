@@ -38,8 +38,10 @@ Here are some of my top contributions 🚀:
 
 - 💼 [Salary Prediction & Resume Scoring](https://github.com/Bhanuprakashachini/Salary-Prediction-and-Resume-Rate-calculation)  
   *Predict salaries and analyze resume scores using ML models with real-world datasets.*
+
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-achini-b261312ba)  
-- 💻 [GitHub](https://github.com/Bhanuprakashachini)  
+- 📄 [Resume](https://drive.google.com/file/d/16UnOQbMKjqQ0Ogr6Kuc199ANHtPXThL4/view?usp=drive_link)  
 - 📧 bhanuprakashachini08@gmail.com
+
