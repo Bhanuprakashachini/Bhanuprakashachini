@@ -75,18 +75,6 @@ Automated trading intelligence system built on deep learning:
 
 ---
 
-### 🏦 [Financial Transaction Lakehouse with AI Cost Governance](https://github.com/Bhanuprakashachini)
-> **Data Engineering · PySpark · Snowflake · Cost Optimization**
-
-Production-grade data lakehouse for real-time financial transactions:
-- ⚙️ PySpark + Snowflake pipeline for real-time transaction processing
-- 💰 Z-Ordering, caching & compression → **~50% query cost reduction**
-- 🤖 AI-based load prediction models for cluster pre-scaling at peak hours
-
-`PySpark` `Snowflake` `Apache Airflow` `SQL` `Python`
-
----
-
 ### 🛒 [Online Retail Customer Analytics & End-to-End Pipeline](https://github.com/Bhanuprakashachini)
 > **Data Analytics · Power BI · RFM Segmentation · ETL**
 
@@ -109,17 +97,7 @@ Full pipeline from raw transactions to executive-level BI dashboard:
 
 `Python` `NumPy` `Pandas` `Power BI` `DAX`
 
----
 
-### 🪪 [AI-Powered Document Extraction & Verification Engine](https://github.com/Bhanuprakashachini)
-> **NLP · OCR · PostgreSQL · Snowflake**
-
-Automated parsing and verification system for Indian ID and financial documents:
-- 🔠 OCR (Tesseract + AWS Textract) + NER + regex → **90% extraction accuracy**
-- ✅ Confidence scoring & exception handling reduced manual review time by **20%**
-- 🗄️ Scalable pipeline with PostgreSQL/Snowflake storage and data quality checks
-
-`Python` `Tesseract` `AWS Textract` `NER` `PostgreSQL` `Snowflake`
 
 ---
 
@@ -135,17 +113,6 @@ End-to-end banking BI solution:
 
 ---
 
-### ⚡ [PySpark Pipeline Optimization for Cloud Cost Reduction](https://github.com/Bhanuprakashachini)
-> **Data Engineering · Airflow · PySpark · Cloud**
-
-Production ETL optimization for large-scale data workloads:
-- 🚀 Incremental PySpark pipelines → **60% runtime reduction**, **35% cost savings**
-- 🔧 Broadcast joins, vectorized UDFs, predicate pushdown at scale
-- 📅 Airflow DAGs with retry & backfill logic → **90% fewer SLA breaches**
-
-`PySpark` `Apache Airflow` `Python` `SQL`
-
----
 
 ## 🎓 Education & Credentials
 
