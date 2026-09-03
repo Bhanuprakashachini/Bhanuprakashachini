@@ -154,6 +154,5 @@ TKR College of Engineering & Technology · 2023
 
 <div align="center">
 
-📫 **bhanuprakashachini08@gmail.com** · [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-achini-b261312ba) · [Portfoilo]([[https://bhanu-portfolio-gilt.vercel.app/](https://bhanu-portfolio-gilt.vercel.app/)])
-
+📫 **bhanuprakashachini08@gmail.com** · [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-achini-b261312ba) · [Portfolio](https://bhanu-portfolio-gilt.vercel.app/)
 </div>
