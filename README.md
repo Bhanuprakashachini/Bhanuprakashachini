@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6f42c1&height=220&section=header&text=Hey,%20I'm%20Bhanu%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20·%20Pipelines%20·%20ML%20·%20LLMs&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/bhanu-prakash-achini-b261312ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bhanuprakashachini08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
