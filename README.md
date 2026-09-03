@@ -18,7 +18,7 @@ I'm a B.Tech Data Science grad who genuinely enjoys the messy part of data — c
 
 Lately I've been deep in **lakehouse pipelines** (Spark, Delta Lake, Airflow) and **LLM/RAG systems** — plus an earlier phase building an LSTM/GRU trading model for NIFTY 50 that I later co-presented as a paper at an international conference in South Korea.
 
-**Currently exploring:** Data Analyst · Data Engineer · ML/AI Engineer roles — always happy to chat about data, AI, or interesting problems.
+**Currently exploring:** Data Analyst · Data Engineer · AI/ML Engineer roles — always happy to chat about data, AI, or interesting problems.
 
 <br/>
 
