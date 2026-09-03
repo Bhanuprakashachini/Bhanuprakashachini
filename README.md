@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/bhanu-prakash-achini-b261312ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bhanuprakashachini08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://bhanu-portfolio-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
+<a href="https://drive.google.com/file/d/1ft-MT9zU-Pd0ogc1g02emvYEx0_kUO7x/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 📍 Hyderabad, India · Open to Remote
 
 </div>
