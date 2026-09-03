@@ -14,11 +14,11 @@
 
 ## 🧭 About
 
-I'm a B.Tech Data Science grad who genuinely enjoys the messy part of data — cleaning it, pipelining it, and eventually getting a model or dashboard out of it that someone actually uses.
+I'm a B.Tech Data Science graduate who genuinely enjoys the messy part of data — cleaning it, pipelining it, and eventually getting a model or dashboard out of it that someone actually uses.
 
 Lately I've been deep in **lakehouse pipelines** (Spark, Delta Lake, Airflow) and **LLM/RAG systems** — plus an earlier phase building an LSTM/GRU trading model for NIFTY 50 that I later co-presented as a paper at an international conference in South Korea.
 
-**Currently exploring:** Data Analyst · Data Engineer · AI/ML Engineer roles — always happy to chat about data, AI, or interesting problems.
+Currently exploring: **Data Analyst** · **Data Engineer** · **AI/ML Engineer roles** — always happy to chat about data, AI, or interesting problems.
 
 <br/>
 
