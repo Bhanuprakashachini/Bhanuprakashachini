@@ -26,7 +26,7 @@ I turn raw, messy data into pipelines, predictions, dashboards, and AI systems t
 - 📊 Built **Power BI dashboards** analyzing $350M+ revenue across 1M+ records
 - 🎤 Co-authored a research paper presented at **PCCDA 2026**, Sejong University, South Korea
 
-> **Open to roles in:** Data Analyst · Data Engineer · ML/AI Engineer · Python Developer
+> **Open to roles in:** Data Analyst · Data Engineer · AI/ML Engineer · Python Developer
 
 ---
 
@@ -208,8 +208,8 @@ I turn raw, messy data into pipelines, predictions, dashboards, and AI systems t
 
 <div align="center">
 
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuprakashachini&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuprakashachini&layout=compact&theme=tokyonight&border_radius=10&hide_border=true)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bhanuprakashachini&label=Public%20Repos&query=%24.public_repos&color=0A66C2&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Bhanuprakashachini?affiliations=OWNER&style=for-the-badge&color=0A66C2)
 
 </div>
 
@@ -219,7 +219,7 @@ I turn raw, messy data into pipelines, predictions, dashboards, and AI systems t
 
 <div align="center">
 
-I'm actively looking for **Data Analyst · Data Engineer · ML/AI Engineer · Python Developer** roles.
+I'm actively looking for **Data Analyst · Data Engineer · AI/ML Engineer · Python Developer** roles.
 If you're hiring or want to collaborate, let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-prakash-achini-b261312ba)
