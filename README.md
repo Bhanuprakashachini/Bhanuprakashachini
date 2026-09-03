@@ -1,10 +1,11 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6f42c1&height=220&section=header&text=Hey,%20I'm%20Bhanu%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20·%20Pipelines%20·%20ML%20·%20LLMs&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/bhanu-prakash-achini-b261312ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bhanuprakashachini08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://bhanu-portfolio-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
 📍 Hyderabad, India · Open to Remote
 
 </div>
@@ -49,7 +50,7 @@ Lately I've been deep in **lakehouse pipelines** (Spark, Delta Lake, Airflow) an
 <td width="50%" valign="top">
 
 ### 🏦 Bank Transactions Lakehouse
-**Jun 2026 · Spark · Delta Lake · Airflow · LLaMA 3**
+**Spark · Delta Lake · Airflow · LLaMA 3**
 
 Medallion (Bronze-Silver-Gold) lakehouse on AWS S3/MinIO, 5-task Airflow orchestration, and an AI-driven Streamlit dashboard for natural-language BI querying.
 
@@ -57,7 +58,7 @@ Medallion (Bronze-Silver-Gold) lakehouse on AWS S3/MinIO, 5-task Airflow orchest
 <td width="50%" valign="top">
 
 ### 🛍️ Metadata Lakehouse (E-Commerce)
-**Apr 2026 · Kafka · Spark · dbt · Hugging Face**
+**Kafka · Spark · dbt · Hugging Face**
 
 Real-time event ingestion pipeline with an embedding-based vector search layer for LLM-driven, prompt-based analytics across product and sales data.
 
@@ -67,7 +68,7 @@ Real-time event ingestion pipeline with an embedding-based vector search layer f
 <td width="50%" valign="top">
 
 ### 🚚 Logistics Data Lakehouse
-**Jan 2026 · PySpark · FastAPI · Snowflake**
+**PySpark · FastAPI · Snowflake**
 
 End-to-end pipeline processing 50K–90K+ daily shipment records, with a FastAPI-served delivery-success prediction model feeding Power BI.
 
@@ -75,7 +76,7 @@ End-to-end pipeline processing 50K–90K+ daily shipment records, with a FastAPI
 <td width="50%" valign="top">
 
 ### 🚦 LLM-Orchestrated Traffic Analysis
-**Jun 2026 · YOLOv8-v12 · Django Channels · Multi-LLM**
+**YOLOv8-v12 · Django Channels · Multi-LLM**
 
 Full-stack platform integrating 5 YOLO variants with multi-LLM orchestration (OpenAI, Anthropic, Groq) for live violation detection via WebSocket streaming.
 
@@ -85,7 +86,7 @@ Full-stack platform integrating 5 YOLO variants with multi-LLM orchestration (Op
 <td width="50%" valign="top">
 
 ### 📄 RAG Application (Document Intelligence)
-**Apr 2026 · LangChain · FAISS · Streamlit**
+**LangChain · FAISS · Streamlit**
 
 Multi-format RAG system (PDF/CSV/Excel/Word/JSON) with hybrid semantic + keyword search, 1–3s query response times.
 
@@ -93,7 +94,7 @@ Multi-format RAG system (PDF/CSV/Excel/Word/JSON) with hybrid semantic + keyword
 <td width="50%" valign="top">
 
 ### 📈 AI Algorithmic Trading System
-**Jan 2026 · LSTM · GRU · Telegram Bot**
+**LSTM · GRU · Telegram Bot**
 
 NIFTY-50 trading system, 85–88% signal accuracy, sub-1-second signal generation, and an AI chatbot dashboard with live candlestick charts.
 
@@ -147,6 +148,7 @@ TKR College of Engineering & Technology · 2023
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bhanuprakashachini&label=Public%20Repos&query=%24.public_repos&color=0A66C2&style=for-the-badge)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0A66C2&height=150&section=footer&text=Let's%20build%20something&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
